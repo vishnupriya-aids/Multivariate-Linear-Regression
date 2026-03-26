@@ -40,7 +40,8 @@ print(regression.predict([[3300,1300]]))
 
 ```
 ## Output:
-<img width="816" height="362" alt="Screenshot 2026-03-26 085330" src="https://github.com/user-attachments/assets/5abe0746-f9ce-48a7-bc23-15801b15ff74" />
+<img width="776" height="327" alt="Screenshot 2026-03-26 090144" src="https://github.com/user-attachments/assets/27571ac1-2f28-469d-958a-9dd1b7451c40" />
+
 
 
 ### Insert your output
